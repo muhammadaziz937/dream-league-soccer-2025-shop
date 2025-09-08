@@ -1,0 +1,63 @@
+p{
+    text-align: justify;
+    padding: 30px;
+}
+.person{
+    width: 510px;
+    height: 475px;
+    background: linear-gradient(#ff0000, #000000, #3c00ff, #000000, #ff0000);
+    padding: 15px;
+    color: yellow;
+}
+.personn{
+    background-color: rgb(130, 73, 23);
+    border-radius: 10px;
+    width: 380px;
+    height: 75px;
+}
+button{
+    background-color: #eaff00;
+    border-radius: 5px;
+}
+a{
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+}
+i{
+    color: black;
+}
+.persos{
+    width: 200px;
+    height: 35px;
+    color: #000000;
+    background-color: #eaff00;
+    border-color: #eaff00;
+}
+body.nuqta{
+    /*background-image: url(./DLS.jpg);
+    background-position: center;*/
+    background-color: #070541;
+}
+body.name{
+    background:linear-gradient( #261fda, #1f1aae, #141172, #0b095b, #070541)
+}
+.aziz{
+    color: yellow;
+}
+.enter{
+    width: 200px;
+    height: 35px;
+    color: #000000;
+    background-color: #eaff00;
+    border-color: #eaff00;
+}
+
+.sector{
+    background: linear-gradient(#ff0000, #000000, #3c00ff, #000000, #ff0000);
+    width: 400px;
+    color: white;
+    padding: 10px;
+    height: 750px;
+    border: solid 4px black;
+    text-align: justify;
+}
